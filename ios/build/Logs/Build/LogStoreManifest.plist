@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>85D764EC-3B0A-42B5-BCE2-D821B4A331D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>85D764EC-3B0A-42B5-BCE2-D821B4A331D8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Sinov project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sinov</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Sinov with scheme Sinov and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565503154.48533595</real>
+			<key>timeStoppedRecording</key>
+			<real>565503163.23512197</real>
+			<key>title</key>
+			<string>Building project Sinov with scheme Sinov and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>85D764EC-3B0A-42B5-BCE2-D821B4A331D8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

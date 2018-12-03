@@ -1,0 +1,4 @@
+#Mon Nov 12 12:45:11 KST 2018
+base.0=/Users/new/Desktop/MPMidTerm/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
